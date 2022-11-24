@@ -1,9 +1,20 @@
 2022/cw44
-1.1 pistols 6
-1.2 pull ups 16x6
-1.3 push ups 16x7
+1.1 pistols 1x6
+1.2 pull ups 1x16x6
+1.3 push ups 1x16x7
 
-2.1 pistols 7
+2.1 pistols 1x7
 
 2022/cw45
+1 pull ups: 7x4
+2 push ups: 5x5
+3 pistols: 1x6
+4 pull ups: 5x5
+5 pull ups: 1x16x6
+6 burpee: 1x15
+7 push ups: 5x6
+
+2022/cw46
+1 pull ups: 6x5
+2 pistols:
 

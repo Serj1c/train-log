@@ -1,7 +1,7 @@
 2022/cw44
 1.1 pistols 1x6
-1.2 pull ups 1x16x6
-1.3 push ups 1x16x7
+1.2 pull ups 1x6 @ 16
+1.3 push ups 1x7 @ 16
 
 2.1 pistols 1x7
 
@@ -10,7 +10,7 @@
 2 push ups: 5x5
 3 pistols: 1x6
 4 pull ups: 5x5
-5 pull ups: 1x16x6
+5 pull ups: 1x6 @ 16
 6 burpee: 1x15
 7 push ups: 5x6
 
@@ -19,7 +19,18 @@
 2 pistols:
 
 2023/cw01
-1 push ups: 1x30x5
-2 pull ups: 1x20x5
-3 front squat: 1x70x5
-4 crunches: 1x15x15
+1.1 push ups: 1x5 @ 30
+1.2 pull ups: 1x5 @ 20
+1.3 front squat: 1x5 @ 70
+1.4 crunches: 1x15 @ 15
+
+2.1 Angle bench dumpbell press: 1x5 @ 32.5
+2.2 pull ups: 5x5
+2.3 dead lift: 1x5 @ 110
+
+3.1 push ups: 1x5 @ 30
+3.2 pull ups: 1x6 @ 30
+3.3 front squat 1x5 @ 70
+3.4 pull to chin: 1x6 @ 55
+
+ 

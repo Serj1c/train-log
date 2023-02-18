@@ -55,3 +55,20 @@ missing
 2.2 burpee: 2x10
 
 3.1 burpee: 3x10
+
+2023/cw07
+1.1 burpee: 1x12
+1.2 pistols: 1x8
+
+2.1 pull-ups: 1x7 @ 16
+2.2 burpee:
+2.3 dumpbell push: 
+
+3.1 push-ups: 1x16
+
+4.1 pull-ups:
+4.2 burpee:
+4.3 pistols:
+
+2023/cw08
+1.1 

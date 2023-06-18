@@ -220,4 +220,28 @@ missing
 2.3 front-squat: 2x3x2 @ 75
 2.4 romanian dead-lift: 1x3 @ 120 // easy
 
+2023/cw24
+1.1 angle-bench-press: 1x4 @ 70
+1.2 pull-to-belly: 2x8x7 @ 95
+1.3 dead-lift: 1x3 @ 130
+1.4 hammers: 1x7 @ 20
+
+2.1 push-ups: 1x5 @ 30
+2.2 pull-ups: 1x5 @ 20
+2.3 front-squat: 1x5 @ 70
+2.4 pull-to-chin: 1x7 @ 50
+
+3.1 toes-to-bar: 1x?
+
+2023/cw25
+1.1 angle-bench-press: 1x? @ 70
+1.2 pull-to-belly: 2x? @ 95
+1.3 dead-lift: 1x? @ 130
+1.4 hammers: 1x7 @ 20
+
+2.1 push-ups: 1x? @ 30
+2.2 pull-ups: 1x5 @ 20
+2.3 front-squat: 1x5 @ 70
+2.4 pull-to-chin: 1x7 @ 50
+
 3.1 toes-to-bar: 1x?

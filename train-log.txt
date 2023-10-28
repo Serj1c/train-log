@@ -293,3 +293,10 @@ missing
 1.2 fron-squat: 1x6 @ 70 
 1.3 pull-to-chin: 1x8 @ 50
 1.4 biceprs-with-bar: 1x7 @ 40
+
+2023/cw43
+1.1 fron-squat: 1x7 @ 70 
+1.2 pull-to-chin: 2x8x6 @ 50
+1.3 biceprs-with-bar: 1x7 @ 40
+1.4 push-ups: 1x8 @ 20
+1.5 knees-to-chin: 15

@@ -300,3 +300,21 @@ missing
 1.3 biceprs-with-bar: 1x7 @ 40
 1.4 push-ups: 1x8 @ 20
 1.5 knees-to-chin: 15
+
+2023/cw44
+1.1 dead-lift: 2x2 @ 130
+1.2 pull-ups: 2x5x4 @ 24
+1.3 angle-bench-press: 2x6x5 @ 65, 60
+1.4 knees-to-chin: 15
+
+2023/cwXX
+1.1 fron-squat: 1x6 @ 70
+1.2 pull-ups: 1x5 @ 25
+1.3 push-ups: 1x8 @ 25
+1.4 biceps-with-bar: 1x7 @ 40
+
+2023/cwYY
+1.1 fron-squat: 1x? @ 70
+1.2 pull-ups: 1x? @ 25
+1.3 push-ups: 1x? @ 25
+1.4 biceps-with-bar: 1x? @ 40

@@ -352,3 +352,10 @@ missing
 1.3 push-press: 1x5 @ 50
 1.4 biceps-with-bar: 1x8 @ 40
 1.5 dead-lift: 1x4 @ 120
+
+2024/cw04
+1.1 angle-bench-press: 1x7 @ 65
+1.2 pull-ups: 1x6 @ 20
+1.3 push-press: 1x5 @ 50
+1.4 biceps-with-bar: 1x8 @ 40
+1.5 dead-lift: 1x4 @ 120

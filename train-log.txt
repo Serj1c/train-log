@@ -385,6 +385,13 @@ missing
 1.5 knees-to-chin: 1x15
 
 2.1 front-squat: 2x3 @ 75
-1.2 pull-to-belly: 2x6 @ 90
-1.3 push-ups: 2x5 @ 25
-1.4 biceps-with-bar: 1x8 @ 40
+2.2 pull-to-belly: 2x6 @ 90
+2.3 push-ups: 2x5 @ 25
+2.4 biceps-with-bar: 1x8 @ 40
+
+2024/cw09
+1.1 push-ups: 1x6 @ 25
+1.2 front-squat: 1x6 @ 75
+1.3 pull-to-belly: 2x7 @ 90
+1.4 biceps-with-bar: 1x9 @ 40
+1.5 knees-to-chin: 1x15

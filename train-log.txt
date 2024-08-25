@@ -464,3 +464,14 @@ forgot to fill up
 3.3 push-press: 1x4 @ 50
 3.4 front-squat: 2x8 @ 50
 3.5 biceps-with-bar: 1x8 @ 40
+
+// pause in filling up
+
+2024/cw34
+1.1 pull-ups: 3x7
+1.2 toes-to-bar: 2x6
+
+2.1 pull-ups: 3x8
+
+3.1 push-ups: 1x16
+3.2 toes-to-bar: 2x6

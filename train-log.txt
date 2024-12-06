@@ -529,7 +529,8 @@ forgot to fill up
 1.4 biceps with bar: 2x5 @ 40
 1.5 sit-ups: 1x20
 
-2.1 pull-ups: 
-2.2 front squat: 3x5 @ 60
-2.3 bar-row: 
-2.4 hammers:
+2.1 pull-ups: 2x3 @ 20
+2.2 front squat: 3x3 @ 60
+2.3 bar-row: 2x8 @ 80
+2.4 hammers: 2x5 @ 20; 1x8 @ 18
+2.5 angles: 2x10

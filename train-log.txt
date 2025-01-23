@@ -593,3 +593,4 @@ forgot to fill up
 2.2 dead-lift: 2x? @ 125
 2.3 dips: 2x? @ 20
 2.4 pull-ups: 5x?
+2.5 angles: 2x?
